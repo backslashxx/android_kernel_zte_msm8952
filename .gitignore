@@ -62,6 +62,7 @@ modules.builtin
 include/config
 include/generated
 arch/*/include/generated
+out
 
 # stgit generated dirs
 patches-*
